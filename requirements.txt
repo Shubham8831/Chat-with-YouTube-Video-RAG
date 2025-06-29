@@ -12,4 +12,8 @@ faiss-cpu
 # youtube chat project
 youtube-transcript-api
 
+#for llm model
 langchain-groq
+
+#embeddings model
+sentence-transformers
